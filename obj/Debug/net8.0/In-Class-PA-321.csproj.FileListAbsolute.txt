@@ -1,0 +1,15 @@
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\bin\Debug\net8.0\In-Class-PA-321.exe
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\bin\Debug\net8.0\In-Class-PA-321.deps.json
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\bin\Debug\net8.0\In-Class-PA-321.runtimeconfig.json
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\bin\Debug\net8.0\In-Class-PA-321.dll
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\bin\Debug\net8.0\In-Class-PA-321.pdb
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\In-Class-PA-321.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\In-Class-PA-321.AssemblyInfoInputs.cache
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\In-Class-PA-321.AssemblyInfo.cs
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\In-Class-PA-321.csproj.CoreCompileInputs.cache
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\In-Class-PA-321.sourcelink.json
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\In-Class-PA-321.dll
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\refint\In-Class-PA-321.dll
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\In-Class-PA-321.pdb
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\In-Class-PA-321.genruntimeconfig.cache
+C:\Users\Cole B\Desktop\mis321\InClassPA\In-Class-PA-321\obj\Debug\net8.0\ref\In-Class-PA-321.dll
